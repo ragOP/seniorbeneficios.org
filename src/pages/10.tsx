@@ -7,7 +7,7 @@ import "./styles.scss";
 import { scrollTo } from "../utils";
 import { ToastContainer, toast, cssTransition } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import Head_bg from "../assets/card.png";
+import Head_bg from "../assets/aa4.jpeg";
 import {  Link } from 'react-router-dom';
 import Headline from "../assets/headline_spandeb1.png";
 
@@ -346,17 +346,17 @@ export default function Abc() {
             <div className="main-descrition-5-5">
               <div className="main-des-title-6-7">
                 <b>
-                ¡Los Americanos Mayores De 65 Años Ahora Pueden Calificar Para Recibir La Tarjeta Flex De $3300 En 2024!
+                ¡Los Americanos Mayores De 65 Años Ahora Pueden Calificar Para Recibir La Tarjeta Flex De $1200 En 2024!
                 </b>
               </div>
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle-z" src={Head_bg} alt="head" />
               <div  style={{marginTop:'14px'}}className="main-des-5">
-              Los americanos mayores de 65 años pueden reclamar la tarjeta Flex 2024 que les ofrece hasta $3300. Con esta tarjeta puedes usar los fondos para cubrir completamente alimentos, medicinas, etc., y la puedes usar en Walmart y miles de otras tiendas participantes.
+              Los americanos mayores de 65 años pueden reclamar la tarjeta Flex 2024 que les ofrece hasta $1200. Con esta tarjeta puedes usar los fondos para cubrir completamente alimentos, medicinas, etc., y la puedes usar en Walmart y miles de otras tiendas participantes.
 
               </div>
               <div className="main-des-5"  style={{marginTop:'-5px'}}>
-              Si aún no has reclamado tus beneficios mensuales, responde las preguntas a continuación y una vez aprobado, recibirás tu tarjeta Flex de $3300 por correo en unos días lista para usar.
+              Si aún no has reclamado tus beneficios mensuales, responde las preguntas a continuación y una vez aprobado, recibirás tu tarjeta Flex de $1200 por correo en unos días lista para usar.
               </div>
               {/* <div className='main-des-5' style = {{marginTop:"1rem"}}><b>Simplemente responda las siguientes preguntas:</b></div> */}
             </div>
